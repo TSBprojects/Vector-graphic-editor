@@ -85,7 +85,7 @@ namespace Лаба_8
                     currFigure.Resize(e.Location);
                     pictureBox1.Refresh();
                 }
-                else
+                else 
                 {
                     Current = e.Location;
                     pictureBox1.Refresh();
